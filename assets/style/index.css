@@ -61,6 +61,8 @@ h3 {
 #stepone, #steptwo, #stepthree, #stepfour, #stepfive, #stepsix, #stepseven, #resultlose,
 #resultwin {
 	display: none;
+	align-content: center;
+	vertical-align: center;
 }
 
 
